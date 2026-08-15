@@ -135,6 +135,7 @@ DataScience_UTS_Suryani_Tangdiaga_250401020097/
 ├── 📦 DataScience_UTS.rar
 ├── 📊 housing_clean.csv
 └── 📊 telco_churn.csv
+```
 
 ---
 
@@ -154,63 +155,49 @@ DataScience_UTS_Suryani_Tangdiaga_250401020097/
     <td align="center">01</td>
     <td align="center">Pertemuan 1</td>
     <td>🐍 Pengenalan Data Science</td>
-    <td align="center">
-      <a href="./UTS/Pertemuan1.ipynb">📄 Buka Notebook</a>
-    </td>
+    <td align="center"><a href="./UTS/Pertemuan1.ipynb">📄 Buka Notebook</a></td>
   </tr>
 
   <tr>
     <td align="center">02</td>
     <td align="center">Pertemuan 2</td>
     <td>📊 Struktur Data Python, NumPy, dan Pandas</td>
-    <td align="center">
-      <a href="./UTS/Pertemuan2.ipynb">📄 Buka Notebook</a>
-    </td>
+    <td align="center"><a href="./UTS/Pertemuan2.ipynb">📄 Buka Notebook</a></td>
   </tr>
 
   <tr>
     <td align="center">03</td>
     <td align="center">Pertemuan 3</td>
     <td>🧹 Data Cleaning: Missing Values, Outlier, dan Ekstraksi Data</td>
-    <td align="center">
-      <a href="./UTS/Pertemuan3.ipynb">📄 Buka Notebook</a>
-    </td>
+    <td align="center"><a href="./UTS/Pertemuan3.ipynb">📄 Buka Notebook</a></td>
   </tr>
 
   <tr>
     <td align="center">04</td>
     <td align="center">Pertemuan 4</td>
     <td>📈 Statistika Dasar dan Analisis Data</td>
-    <td align="center">
-      <a href="./UTS/Pertemuan4.ipynb">📄 Buka Notebook</a>
-    </td>
+    <td align="center"><a href="./UTS/Pertemuan4.ipynb">📄 Buka Notebook</a></td>
   </tr>
 
   <tr>
     <td align="center">05</td>
     <td align="center">Pertemuan 5</td>
     <td>🎨 Visualisasi Data</td>
-    <td align="center">
-      <a href="./UTS/Pertemuan5.ipynb">📄 Buka Notebook</a>
-    </td>
+    <td align="center"><a href="./UTS/Pertemuan5.ipynb">📄 Buka Notebook</a></td>
   </tr>
 
   <tr>
     <td align="center">06</td>
     <td align="center">Pertemuan 6</td>
     <td>⚙️ Persiapan Data / Data Preprocessing</td>
-    <td align="center">
-      <a href="./UTS/Pertemuan6.ipynb">📄 Buka Notebook</a>
-    </td>
+    <td align="center"><a href="./UTS/Pertemuan6.ipynb">📄 Buka Notebook</a></td>
   </tr>
 
   <tr>
     <td align="center">07</td>
     <td align="center">Pertemuan 7</td>
     <td>🤖 Pengantar Machine Learning: Regresi Linear</td>
-    <td align="center">
-      <a href="./UTS/Pertemuan7.ipynb">📄 Buka Notebook</a>
-    </td>
+    <td align="center"><a href="./UTS/Pertemuan7.ipynb">📄 Buka Notebook</a></td>
   </tr>
 </table>
 
@@ -229,93 +216,36 @@ DataScience_UTS_Suryani_Tangdiaga_250401020097/
   <tr>
     <td align="center">09</td>
     <td align="center">Pertemuan 9</td>
-    <td>🤖 Algoritma Klasifikasi (Bagian 1)</td>
-    <td align="center">
-      <a href="./UAS/Pertemuan9.ipynb">📄 Buka Notebook</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">10</td>
-    <td align="center">Pertemuan 10</td>
-    <td>🤖 Algoritma Klasifikasi (Bagian 2)</td>
-    <td align="center">
-      <a href="./UAS/Pertemuan10.ipynb">📄 Buka Notebook</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">11</td>
-    <td align="center">Pertemuan 11</td>
-    <td>🔵 Unsupervised Learning: Clustering (K-Means & Hierarchical)</td>
-    <td align="center">
-      <a href="./UAS/Pertemuan11.ipynb">📄 Buka Notebook</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">12</td>
-    <td align="center">Pertemuan 12</td>
-    <td>🛒 Asosiasi Data & Sistem Rekomendasi Dasar</td>
-    <td align="center">
-      <a href="./UAS/Pertemuan12.ipynb">📄 Buka Notebook</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">13</td>
-    <td align="center">Pertemuan 13</td>
-    <td>📊 Analisis dan Pengembangan Data Science</td>
-    <td align="center">
-      <a href="./UAS/Pertemuan13.ipynb">📄 Buka Notebook</a>
-    </td>
-  </tr>
-</table>
----
-
-### 🎓 UAS — Pertemuan 9–13
-
-<table>
-  <tr>
-    <th align="center">No</th>
-    <th align="center">Pertemuan</th>
-    <th align="left">Materi Pembelajaran</th>
-    <th align="center">Notebook</th>
-  </tr>
-
-  <tr>
-    <td align="center">09</td>
-    <td align="center">Pertemuan 9</td>
-    <td>🧠 Neural Network / Deep Learning</td>
-    <td align="center"><a href="./Pertemuan9.ipynb">📄 Buka Notebook</a></td>
+    <td>🧠 Algoritma Klasifikasi (Bagian 1)</td>
+    <td align="center"><a href="./UAS/Pertemuan9.ipynb">📄 Buka Notebook</a></td>
   </tr>
 
   <tr>
     <td align="center">10</td>
     <td align="center">Pertemuan 10</td>
     <td>🌲 Algoritma Klasifikasi (Bagian 2)</td>
-    <td align="center"><a href="./Pertemuan10.ipynb">📄 Buka Notebook</a></td>
+    <td align="center"><a href="./UAS/Pertemuan10.ipynb">📄 Buka Notebook</a></td>
   </tr>
 
   <tr>
     <td align="center">11</td>
     <td align="center">Pertemuan 11</td>
     <td>🔵 Unsupervised Learning: Clustering (K-Means & Hierarchical)</td>
-    <td align="center"><a href="./Pertemuan11.ipynb">📄 Buka Notebook</a></td>
+    <td align="center"><a href="./UAS/Pertemuan11.ipynb">📄 Buka Notebook</a></td>
   </tr>
 
   <tr>
     <td align="center">12</td>
     <td align="center">Pertemuan 12</td>
     <td>🛒 Asosiasi Data & Sistem Rekomendasi Dasar</td>
-    <td align="center"><a href="./Pertemuan12.ipynb">📄 Buka Notebook</a></td>
+    <td align="center"><a href="./UAS/Pertemuan12.ipynb">📄 Buka Notebook</a></td>
   </tr>
 
   <tr>
     <td align="center">13</td>
     <td align="center">Pertemuan 13</td>
     <td>🧠 Neural Network & NLP</td>
-    <td align="center"><a href="./Pertemuan13.ipynb">📄 Buka Notebook</a></td>
+    <td align="center"><a href="./UAS/Pertemuan13.ipynb">📄 Buka Notebook</a></td>
   </tr>
 </table>
 
