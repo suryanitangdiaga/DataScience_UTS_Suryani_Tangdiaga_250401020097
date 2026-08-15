@@ -3,9 +3,9 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
 
-# 📊 Data Science UTS
+# 📊 Data Science UTS & UAS
 
-### Dokumentasi Praktikum Data Science Pertemuan 1–7
+### Dokumentasi Praktikum Data Science Pertemuan 1–7 & 9–13
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -15,18 +15,27 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mlxtend-Association%20Rules-4CAF50?style=for-the-badge"/>
 </p>
 
 <p>
-  🎓 <b>Ujian Tengah Semester (UTS)</b> &nbsp; | &nbsp;
-  📚 <b>Mata Kuliah Data Science</b> &nbsp; | &nbsp;
+  🎓 <b>Ujian Tengah Semester (UTS) & Ujian Akhir Semester (UAS)</b>
+  &nbsp; | &nbsp;
+  📚 <b>Mata Kuliah Data Science</b>
+  &nbsp; | &nbsp;
   🏫 <b>Program Studi Informatika</b>
+</p>
+
+<p>
+  📝 <b>Pertemuan 1–7</b> — UTS
+  &nbsp; | &nbsp;
+  🎓 <b>Pertemuan 9–13</b> — UAS
 </p>
 
 </div>
 
 ---
-
 ## 👨‍🎓 Profil Mahasiswa
 
 <table>
@@ -53,16 +62,21 @@
 </table>
 
 ---
-
 ## 🚀 Overview Repository
 
-Repository ini dibuat untuk memenuhi tugas **Ujian Tengah Semester (UTS)** mata kuliah **Data Science**. Repository ini berisi kumpulan notebook **Jupyter Notebook** atau **Google Colab** dalam format `.ipynb` dari **Pertemuan 1 sampai Pertemuan 7**.
+Repository ini dibuat untuk mendokumentasikan tugas **Ujian Tengah Semester (UTS)** dan **Ujian Akhir Semester (UAS)** mata kuliah **Data Science**.
 
-Setiap notebook berisi materi praktikum, kode program, hasil output, serta kesimpulan pembelajaran. Repository ini disusun sebagai dokumentasi pembelajaran Data Science yang rapi, terstruktur, dan dapat digunakan sebagai portofolio akademik.
+Repository ini berisi kumpulan notebook **Jupyter Notebook** atau **Google Colab** dalam format `.ipynb`, yang mencakup materi pembelajaran dari **Pertemuan 1–7 untuk UTS** dan **Pertemuan 9–13 untuk UAS**.
+
+Setiap notebook berisi materi praktikum, kode program, hasil output, analisis, serta kesimpulan pembelajaran. Repository ini disusun sebagai dokumentasi perjalanan pembelajaran Data Science yang rapi, terstruktur, dan dapat digunakan sebagai portofolio akademik.
+
+> 📌 **Catatan:** Pertemuan 8 tidak tersedia dalam repository karena tidak terdapat file notebook Pertemuan 8.
 
 ---
 
 ## 📈 Progress Pembelajaran
+
+### 📝 UTS — Pertemuan 1–7
 
 <table>
   <tr>
@@ -70,40 +84,119 @@ Setiap notebook berisi materi praktikum, kode program, hasil output, serta kesim
     <th align="left">Materi</th>
     <th align="center">Status</th>
   </tr>
+
   <tr>
     <td align="center">01</td>
     <td>🐍 Pengenalan Data Science</td>
     <td align="center">✅ Completed</td>
   </tr>
+
   <tr>
     <td align="center">02</td>
     <td>📊 Python, NumPy & Pandas</td>
     <td align="center">✅ Completed</td>
   </tr>
+
   <tr>
     <td align="center">03</td>
     <td>🧹 Data Cleaning</td>
     <td align="center">✅ Completed</td>
   </tr>
+
   <tr>
     <td align="center">04</td>
     <td>📉 Statistika Dasar</td>
     <td align="center">✅ Completed</td>
   </tr>
+
   <tr>
     <td align="center">05</td>
     <td>📈 Visualisasi Data</td>
     <td align="center">✅ Completed</td>
   </tr>
+
   <tr>
     <td align="center">06</td>
     <td>⚙️ Data Preprocessing</td>
     <td align="center">✅ Completed</td>
   </tr>
+
   <tr>
     <td align="center">07</td>
-    <td>🤖 Machine Learning</td>
+    <td>🤖 Machine Learning — Regresi Linear</td>
     <td align="center">✅ Completed</td>
+  </tr>
+</table>
+
+---
+
+### 🎓 UAS — Pertemuan 9–13
+
+<table>
+  <tr>
+    <th align="center">No</th>
+    <th align="left">Materi</th>
+    <th align="center">Status</th>
+  </tr>
+
+  <tr>
+    <td align="center">09</td>
+    <td>🤖 Algoritma Klasifikasi</td>
+    <td align="center">✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td align="center">10</td>
+    <td>🌲 Algoritma Klasifikasi — Bagian 2</td>
+    <td align="center">✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td align="center">11</td>
+    <td>🔵 Unsupervised Learning — K-Means & Hierarchical Clustering</td>
+    <td align="center">✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td align="center">12</td>
+    <td>🛒 Association Rule & Sistem Rekomendasi</td>
+    <td align="center">✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td align="center">13</td>
+    <td>🧠 Neural Network & NLP</td>
+    <td align="center">✅ Completed</td>
+  </tr>
+</table>
+
+---
+
+### 📊 Ringkasan Progress
+
+<table>
+  <tr>
+    <th align="center">Kategori</th>
+    <th align="center">Jumlah Pertemuan</th>
+    <th align="center">Status</th>
+  </tr>
+
+  <tr>
+    <td align="center">📝 UTS</td>
+    <td align="center">7</td>
+    <td align="center">✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td align="center">🎓 UAS</td>
+    <td align="center">5</td>
+    <td align="center">✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>📚 Total</b></td>
+    <td align="center"><b>12</b></td>
+    <td align="center"><b>✅ Completed</b></td>
   </tr>
 </table>
 
@@ -432,6 +525,8 @@ Pastikan seluruh cell berjalan tanpa error dan seluruh output tampil dengan leng
 
 ## 🎯 Ringkasan Materi Setiap Pertemuan
 
+### 📝 UTS — Pertemuan 1–7
+
 ### 1️⃣ Pertemuan 1 – 🐍 Pengenalan Data Science
 
 Mempelajari konsep dasar Data Science, Python dasar, variabel, tipe data, percabangan, perulangan, dan fungsi.
@@ -452,21 +547,55 @@ Mempelajari mean, median, modus, standar deviasi, distribusi data, analisis univ
 
 Mempelajari pembuatan bar chart, histogram, scatter plot, boxplot, dan dashboard visualisasi menggunakan Matplotlib dan Seaborn.
 
-### 6️⃣ Pertemuan 6 – ⚙️ Persiapan Data
+### 6️⃣ Pertemuan 6 – ⚙️ Persiapan Data / Data Preprocessing
 
 Mempelajari handling missing values, encoding data kategorikal, train-test split, scaling, dan data leakage.
 
 ### 7️⃣ Pertemuan 7 – 🤖 Pengantar Machine Learning: Regresi Linear
 
-Mempelajari preprocessing, pelatihan model Linear Regression, evaluasi model menggunakan MAE, RMSE, dan R² Score.
+Mempelajari preprocessing, pelatihan model Linear Regression, serta evaluasi model menggunakan MAE, RMSE, dan R² Score.
+
+---
+
+### 🎓 UAS — Pertemuan 9–13
+
+### 9️⃣ Pertemuan 9 – 🧠 Algoritma Klasifikasi (Bagian 1)
+
+Mempelajari konsep dasar algoritma klasifikasi serta penerapannya dalam Machine Learning.
+
+### 🔟 Pertemuan 10 – 🌲 Algoritma Klasifikasi (Bagian 2)
+
+Mempelajari algoritma klasifikasi lanjutan serta proses evaluasi performa model klasifikasi.
+
+### 1️⃣1️⃣ Pertemuan 11 – 🔵 Unsupervised Learning: Clustering
+
+Mempelajari konsep Unsupervised Learning menggunakan metode K-Means dan Hierarchical Clustering.
+
+### 1️⃣2️⃣ Pertemuan 12 – 🛒 Asosiasi Data & Sistem Rekomendasi Dasar
+
+Mempelajari Association Rule menggunakan algoritma Apriori, frequent itemset, support, confidence, lift, serta sistem rekomendasi sederhana menggunakan Content-Based Filtering.
+
+### 1️⃣3️⃣ Pertemuan 13 – 🧠 Neural Network & NLP
+
+Mempelajari konsep Neural Network dan penerapannya pada pengolahan data serta Natural Language Processing (NLP).
+
+---
 
 ---
 
 ## 📝 Kesimpulan Umum
 
-Berdasarkan pembelajaran dari **Pertemuan 1 sampai Pertemuan 7**, dapat disimpulkan bahwa **Data Science** merupakan proses yang terdiri dari beberapa tahapan penting, mulai dari memahami data, membersihkan data, menganalisis data, membuat visualisasi, mempersiapkan data, hingga membangun model **Machine Learning**.
+## 📝 Kesimpulan Umum
 
-Melalui praktikum ini, mahasiswa dapat memahami penggunaan Python dan beberapa library penting seperti **NumPy, Pandas, Matplotlib, Seaborn, dan Scikit-Learn**. Setiap library memiliki peran penting dalam proses analisis data sehingga menjadi fondasi untuk mempelajari Machine Learning dan Data Science yang lebih lanjut.
+Berdasarkan pembelajaran dari **Pertemuan 1 sampai Pertemuan 13**, dapat disimpulkan bahwa **Data Science** merupakan proses yang terdiri dari beberapa tahapan penting, mulai dari memahami konsep dasar data, melakukan pembersihan dan persiapan data, melakukan analisis dan visualisasi, hingga menerapkan berbagai metode **Machine Learning**.
+
+Pada **Pertemuan 1–7 (UTS)**, mahasiswa mempelajari dasar-dasar Data Science, Python, NumPy, Pandas, Data Cleaning, statistika dasar, visualisasi data, data preprocessing, serta pengantar Machine Learning menggunakan **Regresi Linear**.
+
+Selanjutnya, pada **Pertemuan 9–13 (UAS)**, pembelajaran dilanjutkan dengan materi **algoritma klasifikasi, Unsupervised Learning menggunakan K-Means dan Hierarchical Clustering, Association Rule menggunakan Apriori, sistem rekomendasi dasar, serta Neural Network dan NLP**.
+
+Melalui seluruh praktikum tersebut, mahasiswa dapat memahami penggunaan berbagai library Python seperti **NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow/Keras, mlxtend, dan SciPy**. Setiap library memiliki peran dalam tahapan pengolahan, analisis, visualisasi, pemodelan, hingga evaluasi data.
+
+Dengan demikian, pembelajaran dari **Pertemuan 1–13** memberikan dasar yang cukup untuk memahami alur kerja Data Science secara lebih menyeluruh, mulai dari pengolahan data hingga penerapan algoritma Machine Learning dan teknik analisis data yang lebih lanjut.
 
 ---
 
@@ -477,34 +606,52 @@ Melalui praktikum ini, mahasiswa dapat memahami penggunaan Python dan beberapa l
     <th align="left">Kriteria</th>
     <th align="center">Status</th>
   </tr>
+
   <tr>
-    <td>📁 Notebook Pertemuan 1–7 tersedia</td>
+    <td>📁 Notebook UTS Pertemuan 1–7 tersedia</td>
     <td align="center">✅</td>
   </tr>
+
+  <tr>
+    <td>🎓 Notebook UAS Pertemuan 9–13 tersedia</td>
+    <td align="center">✅</td>
+  </tr>
+
   <tr>
     <td>👨‍🎓 Identitas mahasiswa tersedia pada setiap notebook</td>
     <td align="center">✅</td>
   </tr>
+
   <tr>
     <td>📝 Kesimpulan tersedia pada setiap notebook</td>
     <td align="center">✅</td>
   </tr>
+
   <tr>
     <td>💻 Kode dapat dijalankan dari awal hingga akhir tanpa error</td>
     <td align="center">✅</td>
   </tr>
+
   <tr>
     <td>📊 Output hasil eksekusi telah ditampilkan</td>
     <td align="center">✅</td>
   </tr>
+
   <tr>
     <td>📄 README.md telah disusun secara lengkap</td>
     <td align="center">✅</td>
   </tr>
+
   <tr>
-    <td>📂 Repository tersusun rapi dan terstruktur</td>
+    <td>📂 Repository tersusun rapi dengan folder UTS dan UAS</td>
     <td align="center">✅</td>
   </tr>
+
+  <tr>
+    <td>📚 Dokumentasi materi Pertemuan 1–13 tersedia</td>
+    <td align="center">✅</td>
+  </tr>
+
   <tr>
     <td>🌐 Repository bersifat public dan siap dikumpulkan</td>
     <td align="center">✅</td>
@@ -512,7 +659,6 @@ Melalui praktikum ini, mahasiswa dapat memahami penggunaan Python dan beberapa l
 </table>
 
 ---
-
 <div align="center">
 
 ## 👨‍💻 Author
@@ -527,12 +673,27 @@ Melalui praktikum ini, mahasiswa dapat memahami penggunaan Python dan beberapa l
 
 ---
 
-<h3>⭐ Data Science UTS ⭐</h3>
+<h3>📊 ⭐ Data Science UTS & UAS ⭐ 📊</h3>
+
+<p>
+  <b>Dokumentasi Praktikum Data Science</b><br>
+  Pertemuan 1–7 (UTS) & Pertemuan 9–13 (UAS)
+</p>
 
 <blockquote>
   Learning Data, Exploring Insights, Building Intelligence
 </blockquote>
 
+<p>
+  🐍 Python &nbsp; • &nbsp;
+  📊 Data Science &nbsp; • &nbsp;
+  🤖 Machine Learning &nbsp; • &nbsp;
+  🧠 Deep Learning
+</p>
+
+<p>
+  <b>⭐ Thank You ⭐</b>
+</p>
+
 </div>
-=======
-# DataScience_UTS.rar
+
