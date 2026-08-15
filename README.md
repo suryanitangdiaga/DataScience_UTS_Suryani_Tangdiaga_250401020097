@@ -111,22 +111,33 @@ Setiap notebook berisi materi praktikum, kode program, hasil output, serta kesim
 
 ## 📂 Struktur Repository
 
-```text
-DataScience_UTS/
+DataScience/
 │
 ├── README.md
-├── Pertemuan1.ipynb
-├── Pertemuan2.ipynb
-├── Pertemuan3.ipynb
-├── Pertemuan4.ipynb
-├── Pertemuan5.ipynb
-├── Pertemuan6.ipynb
-└── Pertemuan7.ipynb
-```
+│
+├── 📚 UTS/
+│   ├── Pertemuan1.ipynb
+│   ├── Pertemuan2.ipynb
+│   ├── Pertemuan3.ipynb
+│   ├── Pertemuan4.ipynb
+│   ├── Pertemuan5.ipynb
+│   ├── Pertemuan6.ipynb
+│   └── Pertemuan7.ipynb
+│
+└── 🎓 UAS/
+    ├── Pertemuan09.ipynb
+    ├── Pertemuan10.ipynb
+    ├── Pertemuan11.ipynb
+    ├── Pertemuan12.ipynb
+    └── Pertemuan13.ipynb
+
+
 
 ---
 
 ## 📚 Daftar Notebook
+
+### 📘 UTS — Pertemuan 1–7
 
 <table>
   <tr>
@@ -135,47 +146,102 @@ DataScience_UTS/
     <th align="left">Materi Pembelajaran</th>
     <th align="center">Notebook</th>
   </tr>
+
   <tr>
     <td align="center">01</td>
     <td align="center">Pertemuan 1</td>
     <td>🐍 Pengenalan Data Science</td>
     <td align="center"><a href="./Pertemuan1.ipynb">📄 Buka Notebook</a></td>
   </tr>
+
   <tr>
     <td align="center">02</td>
     <td align="center">Pertemuan 2</td>
     <td>📊 Struktur Data Python, NumPy, dan Pandas</td>
     <td align="center"><a href="./Pertemuan2.ipynb">📄 Buka Notebook</a></td>
   </tr>
+
   <tr>
     <td align="center">03</td>
     <td align="center">Pertemuan 3</td>
     <td>🧹 Data Cleaning: Missing Values, Outlier, dan Ekstraksi Data</td>
-    <td align="center"><a href="./pertemuan3.ipynb">📄 Buka Notebook</a></td>
+    <td align="center"><a href="./Pertemuan3.ipynb">📄 Buka Notebook</a></td>
   </tr>
+
   <tr>
     <td align="center">04</td>
     <td align="center">Pertemuan 4</td>
     <td>📈 Statistika Dasar dan Analisis Data</td>
-    <td align="center"><a href="./pertemuan4.ipynb">📄 Buka Notebook</a></td>
+    <td align="center"><a href="./Pertemuan4.ipynb">📄 Buka Notebook</a></td>
   </tr>
+
   <tr>
     <td align="center">05</td>
     <td align="center">Pertemuan 5</td>
     <td>🎨 Visualisasi Data</td>
-    <td align="center"><a href="./pertemuan5.ipynb">📄 Buka Notebook</a></td>
+    <td align="center"><a href="./Pertemuan5.ipynb">📄 Buka Notebook</a></td>
   </tr>
+
   <tr>
     <td align="center">06</td>
     <td align="center">Pertemuan 6</td>
     <td>⚙️ Persiapan Data / Data Preprocessing</td>
-    <td align="center"><a href="./pertemuan6.ipynb">📄 Buka Notebook</a></td>
+    <td align="center"><a href="./Pertemuan6.ipynb">📄 Buka Notebook</a></td>
   </tr>
+
   <tr>
     <td align="center">07</td>
     <td align="center">Pertemuan 7</td>
     <td>🤖 Pengantar Machine Learning: Regresi Linear</td>
-    <td align="center"><a href="./pertemuan7.ipynb">📄 Buka Notebook</a></td>
+    <td align="center"><a href="./Pertemuan7.ipynb">📄 Buka Notebook</a></td>
+  </tr>
+</table>
+
+---
+
+### 🎓 UAS — Pertemuan 9–13
+
+<table>
+  <tr>
+    <th align="center">No</th>
+    <th align="center">Pertemuan</th>
+    <th align="left">Materi Pembelajaran</th>
+    <th align="center">Notebook</th>
+  </tr>
+
+  <tr>
+    <td align="center">09</td>
+    <td align="center">Pertemuan 9</td>
+    <td>🧠 Neural Network / Deep Learning</td>
+    <td align="center"><a href="./Pertemuan9.ipynb">📄 Buka Notebook</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">10</td>
+    <td align="center">Pertemuan 10</td>
+    <td>🌲 Algoritma Klasifikasi (Bagian 2)</td>
+    <td align="center"><a href="./Pertemuan10.ipynb">📄 Buka Notebook</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">11</td>
+    <td align="center">Pertemuan 11</td>
+    <td>🔵 Unsupervised Learning: Clustering (K-Means & Hierarchical)</td>
+    <td align="center"><a href="./Pertemuan11.ipynb">📄 Buka Notebook</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">12</td>
+    <td align="center">Pertemuan 12</td>
+    <td>🛒 Asosiasi Data & Sistem Rekomendasi Dasar</td>
+    <td align="center"><a href="./Pertemuan12.ipynb">📄 Buka Notebook</a></td>
+  </tr>
+
+  <tr>
+    <td align="center">13</td>
+    <td align="center">Pertemuan 13</td>
+    <td>🧠 Neural Network & NLP</td>
+    <td align="center"><a href="./Pertemuan13.ipynb">📄 Buka Notebook</a></td>
   </tr>
 </table>
 
@@ -189,35 +255,41 @@ DataScience_UTS/
     <th align="left">Tools</th>
     <th align="left">Keterangan</th>
   </tr>
+
   <tr>
     <td align="center">🐍</td>
     <td><b>Python</b></td>
-    <td>Bahasa pemrograman utama untuk analisis data</td>
+    <td>Bahasa pemrograman utama untuk analisis data dan Machine Learning</td>
   </tr>
+
   <tr>
     <td align="center">📓</td>
     <td><b>Jupyter Notebook</b></td>
     <td>Membuat dan menjalankan file notebook berekstensi <code>.ipynb</code></td>
   </tr>
+
   <tr>
     <td align="center">☁️</td>
     <td><b>Google Colab</b></td>
     <td>Menjalankan notebook secara online tanpa instalasi lokal</td>
   </tr>
+
   <tr>
     <td align="center">💻</td>
     <td><b>Visual Studio Code</b></td>
-    <td>Code editor untuk mengelola file repository</td>
+    <td>Code editor untuk mengembangkan dan mengelola file repository</td>
   </tr>
+
   <tr>
     <td align="center">🔀</td>
     <td><b>Git</b></td>
-    <td>Sistem kontrol versi untuk mengelola perubahan kode</td>
+    <td>Sistem kontrol versi untuk mengelola perubahan dan riwayat project</td>
   </tr>
+
   <tr>
     <td align="center">🌐</td>
     <td><b>GitHub</b></td>
-    <td>Platform penyimpanan repository secara public</td>
+    <td>Platform untuk menyimpan, mengelola, dan membagikan repository secara public</td>
   </tr>
 </table>
 
@@ -231,30 +303,53 @@ DataScience_UTS/
     <th align="left">Library</th>
     <th align="left">Fungsi</th>
   </tr>
+
   <tr>
     <td align="center">🔢</td>
     <td><b>NumPy</b></td>
-    <td>Digunakan untuk komputasi numerik dan pengolahan array</td>
+    <td>Komputasi numerik, pengolahan array, dan pembuatan dataset sintetis</td>
   </tr>
+
   <tr>
     <td align="center">📊</td>
     <td><b>Pandas</b></td>
-    <td>Digunakan untuk manipulasi, membaca, membersihkan, dan menganalisis data</td>
+    <td>Manipulasi, membaca, membersihkan, dan menganalisis data</td>
   </tr>
+
   <tr>
     <td align="center">📈</td>
     <td><b>Matplotlib</b></td>
-    <td>Digunakan untuk membuat visualisasi grafik dasar</td>
+    <td>Membuat visualisasi grafik dan hasil analisis data</td>
   </tr>
+
   <tr>
     <td align="center">🎨</td>
     <td><b>Seaborn</b></td>
-    <td>Digunakan untuk membuat visualisasi statistik yang lebih informatif</td>
+    <td>Membuat visualisasi statistik yang lebih informatif</td>
   </tr>
+
   <tr>
     <td align="center">🤖</td>
     <td><b>Scikit-Learn</b></td>
-    <td>Digunakan untuk preprocessing data, train-test split, scaling, dan model Machine Learning</td>
+    <td>Preprocessing, train-test split, scaling, klasifikasi, clustering, evaluasi model, dan Machine Learning</td>
+  </tr>
+
+  <tr>
+    <td align="center">🧠</td>
+    <td><b>TensorFlow / Keras</b></td>
+    <td>Membangun dan melatih model Neural Network serta Deep Learning</td>
+  </tr>
+
+  <tr>
+    <td align="center">🛒</td>
+    <td><b>mlxtend</b></td>
+    <td>Melakukan One-Hot Encoding transaksi, algoritma Apriori, dan Association Rules</td>
+  </tr>
+
+  <tr>
+    <td align="center">📐</td>
+    <td><b>SciPy</b></td>
+    <td>Digunakan untuk Hierarchical Clustering dan pembuatan dendrogram</td>
   </tr>
 </table>
 
